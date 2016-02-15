@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from mealchooser import MealChooser
 from meals import Meal
 
